@@ -1,0 +1,23 @@
+<package>
+	<id>com.bateleurs.portraitnetflix</id>
+	<name>PortraitNetflix</name>
+	<version>1.0-4</version>
+	<compatibility>
+		<firmware>
+			<minOS>8.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<descriptionlist>
+		<description>Forces Netflix to always be in portrait orientation.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
