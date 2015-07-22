@@ -1,7 +1,7 @@
 <package>
 	<id>com.bateleurs.portraitnetflix</id>
 	<name>PortraitNetflix</name>
-	<version>1.0-4</version>
+	<version>1.0-5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.4</miniOS>
