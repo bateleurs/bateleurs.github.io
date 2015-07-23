@@ -1,7 +1,7 @@
 <package>
 	<id>com.bateleurs.noeditmenudelay</id>
 	<name>NoEditMenuDelay</name>
-	<version>1.0-5</version>
+	<version>1.0-6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>5.0</miniOS>
