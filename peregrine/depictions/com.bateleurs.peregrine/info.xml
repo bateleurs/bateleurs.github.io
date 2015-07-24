@@ -1,0 +1,24 @@
+<package>
+	<id>com.bateleurs.peregrine</id>
+	<name>peregrine</name>
+	<version>2015.07.24</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.4</miniOS>
+			<maxiOS>8.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate, com.rthakrar.artless, com.bytafont.bytafont2, cycript, org.coolstar.cctools, ws.hbang.carrierdate, com.fuyuchi.flex2, com.shmoopillc.flexible, com.kindadev.goodfit, com.lizynz.hidenewsstandios7.1.x, eu.heinelt.ifile, com.myrepospace.pw5a29ip4.ios9englishfont, com.ichitaso.mobileterminal, org.coolstar.iostoolchain, org.coolstar.ld64, org.coolstar.llvm-clang, net.angelxwind.mikoto, com.skylerk99.musicmod, net.angelxwind.noplsrecovery, com.bateleurs.noeditmenudelay, com.marcosinghof.noslowanimations, openssh, org.coolstar.perl, ws.hbang.pheromone, io.github.rossistboss.quickmanualsub, rsync, net.angelxwind.safestrat, jp.ashikase.showcase, ws.hbang.switchspring, com.bd452.upscale</dependencies>
+	<descriptionlist>
+		<description>Install everything, fast</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
