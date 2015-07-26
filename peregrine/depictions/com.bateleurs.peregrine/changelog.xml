@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2015.07.26</version>
+		<change>Add com.reddestdream.minimalhostsblocker</change>
+	</changes>
+	<changes>
 		<version>2015.07.24</version>
 		<change>Initial release</change>
 	</changes>
